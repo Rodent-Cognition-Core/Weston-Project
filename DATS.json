@@ -5,6 +5,7 @@
     "identifier": "10.7554/eLife.49630",
     "identifierSource": "https://elifesciences.org/articles/49630"
   },
+  "dates": [],
   "creators": [
     {
       "name": "BrainsCan, The University of Western Ontario",
@@ -41,7 +42,7 @@
     }
   ],
   "version": "1",
-  "privacy": "public",
+  "privacy": "open",
   "licenses": [
     {
       "name": "CC0"
@@ -52,7 +53,7 @@
       "formats": [
         "CSV"
       ],
-      "size": "100",
+      "size": 100,
       "unit": {
         "value": "MB"
       },
@@ -327,7 +328,10 @@
       "dates": [
         {
           "description": "",
-          "date": "2019-12-11"
+          "date": "2019-12-10 00:00:00",
+          "type": {
+            "value": "this dataset was published on december 11, 2019 in the elife journal."
+          }
         }
       ],
       "identifier": {
@@ -432,14 +436,6 @@
       ]
     },
     {
-      "category": "logo",
-      "values": [
-        {
-          "value": ""
-        }
-      ]
-    },
-    {
       "category": "contact",
       "values": [
         {
@@ -452,14 +448,6 @@
       "values": [
         {
           "value": "Touchscreen Technology"
-        }
-      ]
-    },
-    {
-      "category": "parent_dataset_id",
-      "values": [
-        {
-          "value": ""
         }
       ]
     }
